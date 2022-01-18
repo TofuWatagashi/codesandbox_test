@@ -1,5 +1,5 @@
-/**
- * const let の宣言
+import "./styles.css";
+
  */
 
 // var val1 = "var";
